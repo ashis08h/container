@@ -25,7 +25,7 @@ SECRET_KEY = 'bimava)#k4fu^h0ykk_!%$=xt6z_b1(pmt-2b-*s%m5$#+&x8n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.127.65.143']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
